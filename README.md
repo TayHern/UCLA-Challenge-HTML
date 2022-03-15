@@ -1,6 +1,6 @@
 # UCLA-Challenge-HTML
 
-##Descriotion
+## Description
   This is the first challenge of UCLA coding bootcamp to showcase my knowledge of basic HTML structure.
 
 ## User Story
